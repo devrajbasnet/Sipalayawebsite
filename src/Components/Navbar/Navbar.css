@@ -228,5 +228,10 @@ ul li{
   cursor: pointer;
   color: blue; 
 }
+.form-field select {
+  width: 100%; 
+  height: 35px;
+}
+
 
 
