@@ -1,6 +1,6 @@
 import React from 'react';
-import './Navbar.css'; // Import the CSS file for ending styles
-import end from '../../Assests/new.png'; // Import the logo image
+import './Navbar.css'; 
+import end from '../../Assests/new.png'; 
 
 const Ending = () => {
   return (
