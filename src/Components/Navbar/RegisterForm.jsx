@@ -1,5 +1,5 @@
 import React from 'react';
-import './Navbar.css'; // Import CSS file for styling
+import './Navbar.css'; 
 
 const RegisterForm = () => {
   return (
